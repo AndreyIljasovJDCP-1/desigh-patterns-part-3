@@ -1,0 +1,6 @@
+rootProject.name = 'design-patterns-part-3'
+include 'command'
+include 'observer'
+include 'chain-responsibility'
+include 'iterator'
+
